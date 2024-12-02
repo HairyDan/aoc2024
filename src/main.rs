@@ -1,8 +1,9 @@
 extern crate core;
 
 mod day1;
+mod day2;
 
 fn main() {
     println!("main file running");
-    day1::runPart2();
+    day2::runpart2();
 }
